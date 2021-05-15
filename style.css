@@ -1,18 +1,9 @@
-* {
-    margin: 0;
-    padding: 0
-}
-
-html,
-body {
-    min-height: 100%;
-}
-
+* { margin: 0;padding: 0}
+html,body { min-height: 100%;}
 body {
     font-size: 62.5%;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     background: #ecf0f5;    
-    /*float: left;*/
 }
 .main{
 	width: 100vw;
